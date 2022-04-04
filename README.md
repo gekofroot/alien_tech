@@ -1,6 +1,6 @@
 Description
-A little bit of alien technology.
-All documents within this repository 
+Guides & cookbooks.
+All documents
 are freely available 
 for public consumption.
 All credits go to their respective owners.
