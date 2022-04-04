@@ -1,8 +1,5 @@
 Description
-Guides & cookbooks.
-All documents
-are freely available 
-for public consumption.
+Free programming guides & cookbooks.
 All credits go to their respective owners.
 Browse at your leisure.
 
